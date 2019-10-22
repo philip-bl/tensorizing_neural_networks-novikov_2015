@@ -17,7 +17,7 @@ $ conda activate tnn_env
 # install pytorch - consult https://pytorch.org/get-started-locally, for me the command below was enough
 $ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
 
-$ pip install pytorch-ignite tensorboardX libcrap
+$ pip install pytorch-ignite tensorboardX click click-log libcrap
 #+end_src
 
 
